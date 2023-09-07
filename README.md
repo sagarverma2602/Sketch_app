@@ -3,7 +3,7 @@ This Repo introduces the Etch-A-Sketch project, which lets the user define the s
 
 A screenshot has been attached to the Repo for reference.
 
-Live Link: [https://sagarverma2602.github.io/Sketch_app/]
+Live Link: https://sagarverma2602.github.io/Sketch_app/
 Project Link: https://www.theodinproject.com/lessons/foundations-etch-a-sketch
 
 ## Features:
